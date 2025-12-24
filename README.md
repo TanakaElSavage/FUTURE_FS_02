@@ -8,7 +8,7 @@ listing, search, shopping cart management, and a checkout simulation.
 
 ---
 
-## 🔹 Features
+## Features
 
 - Product listing with search functionality
 - Shopping cart with quantity control
@@ -17,9 +17,8 @@ listing, search, shopping cart management, and a checkout simulation.
 - Responsive and clean user interface
 - State management using React Context API
 
----
 
-## 🔹 Tech Stack
+## Tech Stack
 
 - **Frontend:** React (Vite)
 - **Styling:** Tailwind CSS
@@ -28,5 +27,5 @@ listing, search, shopping cart management, and a checkout simulation.
 
 ---
 
-## 🔹 Project Structure
+## Project Structure
 
